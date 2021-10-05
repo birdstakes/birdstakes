@@ -1,8 +1,8 @@
-- 👋 Hey ,Im @burdsteaks
-- 👀 Im interested in no thing
-- 🌱 Im currently learning no thing
-- 💞️ Im looking to collaborate on not hing
-- 📫 How to reach me donot
+- 👋 Hi,I'm @birdstakes
+- 👀 I'm interested in nothing
+- 🌱 I'm currently learning nothing
+- 💞️ I'm looking to collaborate on nothing
+- 📫 How to reach me do not
 
 <!---
 birdstakes/birdstakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

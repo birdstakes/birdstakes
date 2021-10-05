@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @birdstakes
-- 👀 I’m interested in no thing
-- 🌱 I’m currently learning no thing
-- 💞️ I’m looking to collaborate on not hing
+- 👋 Hey ,Im @burdsteaks
+- 👀 Im interested in no thing
+- 🌱 Im currently learning no thing
+- 💞️ Im looking to collaborate on not hing
 - 📫 How to reach me donot
 
 <!---

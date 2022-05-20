@@ -1,8 +1,12 @@
-- 👋 Hi, I'm @birdstakes
-- 👀 I'm interested in nothing
-- 🌱 I'm currently learning nothing
-- 💞️ I'm looking to collaborate on nothing
-- 📫 How to reach me do not
+👋 Hi, I'm @birdstakes
+
+👀 I'm interested in $\emptyset$
+
+🌱 I'm currently learning $\emptyset$
+
+💞️ I'm looking to collaborate on $\emptyset$
+
+📫 How to reach me do not
 
 $\sum u$ may be wondering what you're doing here
 
